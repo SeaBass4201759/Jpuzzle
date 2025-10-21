@@ -1,4 +1,4 @@
 # Jpuzzle
 Grab your binary bits to reconstruct your jpeg image
 
-PREFACE: Still a work in progress. 
+enter the jpeg binary files then look for the reconstructed image in the directory it creates. 
